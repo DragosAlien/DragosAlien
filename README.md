@@ -41,6 +41,4 @@ Exploring utilities for development workflows, automation, and desktop applicati
 
 *Some of my work is private. Public projects and experiments will be added here as they become available.*
 
-### 📫 Connect
 
-You can find my public projects and activity here on [GitHub](https://github.com/DragosAlien).
