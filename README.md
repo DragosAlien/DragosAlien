@@ -1,44 +1,26 @@
-# Hey, I'm Dragos 👋
+# Dragos Vasiliu
 
-I'm a software engineer working across frontend, backend, databases, and infrastructure.
+Software Developer at PARENTESIKUADRA, based in Piedmont, Italy.
 
-I build and maintain web applications, design APIs, integrate external services, and manage the environments they run on. I mainly work with PHP/Laravel and React, with a focus on maintainable code, practical architecture, and reliable systems.
+I work across the stack, wherever the problem is: the web applications clients use every day, their integrations with external systems, the Linux servers they run on and the pipelines that ship them. On the side, AI tools.
 
-### 🛠 Tech Stack
+**Portfolio:** [dragosalien.github.io/portfolio](https://dragosalien.github.io/portfolio/) · [Italiano](https://dragosalien.github.io/portfolio/it/)
 
-| Area | Technologies |
+### What I work on
+
+- Laravel business applications with React and Inertia.js frontends, including a multi-tenant SaaS for restaurant kitchens where I am the only developer.
+- Integrations with payments, webhooks, third-party APIs and SOAP services.
+- Docker on Linux servers that I maintain and migrate, with automated releases and backups.
+- Prototypes with LLMs, AI agents, MCP and RAG, mostly to search documents and automate my own workflow.
+
+### Stack
+
+| Layer | Technologies |
 |---|---|
-| **Backend** | PHP, Laravel, REST APIs, Webhooks |
-| **Frontend** | React, JavaScript, Inertia.js, Tailwind CSS |
-| **Databases** | PostgreSQL, MariaDB, Supabase, Row Level Security |
-| **Infrastructure** | Linux, Docker, Nginx, Apache, Tomcat |
-| **Architecture** | Multi-tenancy, API integrations, Authentication |
-| **Currently learning** | Rust, Tauri |
+| Interface | React, Inertia.js, TypeScript, Tailwind CSS, TanStack Table, Electron |
+| Application | PHP, Laravel, Node.js, Fastify, BullMQ, Python, FastAPI, PHPUnit, Pest, Vitest, PHPStan |
+| Data | PostgreSQL, MySQL, Redis |
+| Integrations | REST, Webhooks, Stripe, SOAP, WebSockets, XML |
+| Systems | Linux, Docker, SSH, Restic, Git, GitHub Actions |
 
-### 🔧 What I'm Working On
-
-- Building full-stack applications with Laravel, React, and Inertia.js.
-- Exploring multi-tenant architectures, database isolation, and access control.
-- Working on infrastructure automation, deployment, and monitoring.
-- Learning Rust and Tauri for native desktop applications.
-- Experimenting with developer tools and AI-assisted development workflows.
-
-### 📂 Selected Work
-
-A few areas I've worked on or am currently exploring:
-
-**Business Applications**  
-Full-stack applications involving complex business logic, role-based access control, reporting, and third-party integrations.
-
-**Multi-Tenant Systems**  
-Application architectures using Laravel and Spatie Multitenancy, alongside PostgreSQL and Supabase Row Level Security for data isolation.
-
-**Infrastructure & Automation**  
-Tools and workflows for managing Linux servers, application deployments, backups, and service monitoring.
-
-**Developer Tools & Desktop Applications**  
-Exploring utilities for development workflows, automation, and desktop applications using Rust and Tauri.
-
-*Some of my work is private. Public projects and experiments will be added here as they become available.*
-
-
+Most of my work is for clients and stays private; the portfolio describes what each project does. This site's source is public: [DragosAlien/portfolio](https://github.com/DragosAlien/portfolio).
